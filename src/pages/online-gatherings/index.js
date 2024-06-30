@@ -508,7 +508,7 @@ const CarrerPage = () => {
               <div className="single-job-card mb-30">
                 <div className="job-list-content">
                   <div className="post-name">
-                    <h4>Early Morning Gathering</h4>
+                    <h4>Early Morning Prayer</h4>
                     {/* <span>Human Resarch</span> */}
                   </div>
                   <div className="job-discription">
@@ -554,7 +554,7 @@ const CarrerPage = () => {
                         <span className="title">Entry:</span> Anyone
                       </li>
                       <li>
-                        <span className="title">Friday </span>
+                        <span className="title">Every month 1st Saturday</span>
                       </li>
                       <li>7:00 PM - 8:30 PM IST</li>
                     </ul>
@@ -582,7 +582,7 @@ const CarrerPage = () => {
               <div className="single-job-card mb-30">
                 <div className="job-list-content">
                   <div className="post-name">
-                    <h4>Leadership Training</h4>
+                    <h4>Leadership Meeting</h4>
                     {/* <span>Human Resarch</span> */}
                   </div>
                   <div className="job-discription">
@@ -591,7 +591,7 @@ const CarrerPage = () => {
                         <span className="title">Entry:</span> Only Registered
                       </li>
                       <li>
-                        <span className="title">Wednesday</span>
+                        <span className="title">Every month 1st Wednesday</span>
                       </li>
                       <li>7:00 PM - 8:30 PM IST</li>
                     </ul>
@@ -619,7 +619,7 @@ const CarrerPage = () => {
               <div className="single-job-card mb-30">
                 <div className="job-list-content">
                   <div className="post-name">
-                    <h4>Women's Special Gathering</h4>
+                    <h4>Women's Gathering</h4>
                     {/* <span>Human Resarch</span> */}
                   </div>
                   <div className="job-discription">
@@ -628,7 +628,7 @@ const CarrerPage = () => {
                         <span className="title">Entry:</span> Only Women
                       </li>
                       <li>
-                        <span className="title">Saturday</span>
+                        <span className="title">Every month 1st and 3rd Friday</span>
                       </li>
                       <li>7:00 PM - 8:30 PM IST</li>
                     </ul>
@@ -656,7 +656,7 @@ const CarrerPage = () => {
               <div className="single-job-card mb-30">
                 <div className="job-list-content">
                   <div className="post-name">
-                    <h4>Special Youths Gathering</h4>
+                    <h4>Youth Meeting</h4>
                     {/* <span>Human Resarch</span> */}
                   </div>
                   <div className="job-discription">
@@ -665,7 +665,7 @@ const CarrerPage = () => {
                         <span className="title">Entry:</span> Age Group 18 to 40
                       </li>
                       <li>
-                        <span className="title">Sunday</span>
+                        <span className="title">Every month 1st Sunday</span>
                       </li>
                       <li>7:00 PM - 8:30 PM IST</li>
                     </ul>

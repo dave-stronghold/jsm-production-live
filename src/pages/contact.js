@@ -37,8 +37,7 @@ const ContactPage = () => {
                       </svg>
                     </div>
                     <div className="info">
-                      <a href="tel:05661111985">+880 566 1111 985</a>
-                      <a href="tel:06571111576">+880 657 1111 576</a>
+                      <a href="tel:+919952648777">+91 99526 48777</a>
                     </div>
                   </li>
                   <li>
@@ -53,15 +52,15 @@ const ContactPage = () => {
                       </svg>
                     </div>
                     <div className="info">
-                      <a href="mailto:infoexample@gmail.com">
-                        infoexample@gmail.com
+                      <a href="mailto:prayers.jsm@gmail.com">
+                        prayers.jsm@gmail.com
                       </a>
-                      <a href="mailto:infoexample2@gmail.com">
+                      {/* <a href="mailto:infoexample2@gmail.com">
                         infoexample2@gmail.com
-                      </a>
+                      </a> */}
                     </div>
                   </li>
-                  <li>
+                  {/* <li>
                     <div className="icon">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +77,7 @@ const ContactPage = () => {
                         Canada City, Office-02, Road-11, House-3B/B, Section-H
                       </a>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
               <div className="single-location">
@@ -109,8 +108,7 @@ const ContactPage = () => {
                       </svg>
                     </div>
                     <div className="info">
-                      <a href="tel:05661111985">+880 566 1111 985</a>
-                      <a href="tel:06571111576">+880 657 1111 576</a>
+                      <a href="tel:+94776815096">+94 77 681 5096</a>
                     </div>
                   </li>
                   <li>
@@ -125,15 +123,12 @@ const ContactPage = () => {
                       </svg>
                     </div>
                     <div className="info">
-                      <a href="mailto:infoexample@gmail.com">
-                        infoexample@gmail.com
-                      </a>
-                      <a href="mailto:infoexample2@gmail.com">
-                        infoexample2@gmail.com
+                      <a href="mailto:prayers.jsm@gmail.com">
+                        prayers.jsm@gmail.com
                       </a>
                     </div>
                   </li>
-                  <li>
+                  {/* <li>
                     <div className="icon">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -150,7 +145,7 @@ const ContactPage = () => {
                         Canada City, Office-02, Road-11, House-3B/B, Section-H
                       </a>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -174,7 +169,8 @@ const ContactPage = () => {
               <div className="section-title1 two">
                 <h2>If Your Need Any Queries, Please write to us.</h2>
                 <p>
-                  It Can be any information regarding the ministry or prayer requests. We will reach you back in Office hours.
+                  It Can be any information regarding the ministry or prayer
+                  requests. We will reach you back in Office hours.
                 </p>
               </div>
             </div>
