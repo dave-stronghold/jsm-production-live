@@ -6,6 +6,7 @@ import useButtonHover from "../hooks/useButtonHover";
 import SmoothPageScroll from "../utils/SmoothPageScroll";
 import ScrollTopBtn from "../components/common/ScrollTopBtn";
 import Head from "next/head";
+import { Analytics } from "@vercel/analytics/react"
 export default function App({ Component, pageProps }) {
   useButtonHover();
   useMagneticHover();
@@ -30,6 +31,7 @@ export default function App({ Component, pageProps }) {
           sizes="20x20"
         />
       </Head>
+      {/* <Analytics/> */}
       <Component {...pageProps} />
       <ScrollTopBtn />
       <SmoothPageScroll />

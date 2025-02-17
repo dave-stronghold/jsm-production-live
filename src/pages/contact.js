@@ -1,6 +1,7 @@
 import React from "react";
 import Breadcrumb from "../components/common/Breadcrumb";
 import MainLayout from "../components/layout/MainLayout";
+import FindJob from "../components/home1/International";
 
 const ContactPage = () => {
   return (
@@ -37,7 +38,7 @@ const ContactPage = () => {
                       </svg>
                     </div>
                     <div className="info">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </li>
                   <li>
@@ -60,7 +61,7 @@ const ContactPage = () => {
                       </a> */}
                     </div>
                   </li>
-                  {/* <li>
+                  <li>
                     <div className="icon">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -74,13 +75,13 @@ const ContactPage = () => {
                     </div>
                     <div className="info">
                       <a>
-                        Canada City, Office-02, Road-11, House-3B/B, Section-H
+                        Senaigalin Karthar Ministries, Office-02, Chennai, Tamil Nadu, India
                       </a>
                     </div>
-                  </li> */}
+                  </li>
                 </ul>
               </div>
-              <div className="single-location">
+              <div className="single-location" style={{display:'none'}}>
                 <div className="title-and-view-btn">
                   <h4>Colombo, Sri Lanka</h4>
                   <a href="#">
@@ -261,6 +262,7 @@ const ContactPage = () => {
           </div>
         </div>
       </div>
+        <FindJob/>
     </MainLayout>
   );
 };

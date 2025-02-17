@@ -138,7 +138,8 @@ const CarrerPage = () => {
               </div>
               <div className="review-and-counter-area">
                 <a
-                  href="https://www.youtube.com/@SENAIGALINKARTHARMINISTRIES/streams"
+                target="_blank"
+                  href="https://www.youtube.com/@SenaigalinKarthar/streams"
                   className="review-area"
                 >
                   <div className="review-name">

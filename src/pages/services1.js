@@ -432,7 +432,7 @@ const Services1Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                   <ul className="social-icon">
@@ -461,7 +461,7 @@ const Services1Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                   <ul className="social-icon">
@@ -490,7 +490,7 @@ const Services1Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                   <ul className="social-icon">
@@ -519,7 +519,7 @@ const Services1Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                   <ul className="social-icon">

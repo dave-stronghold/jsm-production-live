@@ -35,6 +35,11 @@
             },
             {
                 "id": "4",
+                "label": "Youth Ministry",
+                "link": "/youth-ministry"
+            },
+            {
+                "id": "5",
                 "label": "Social Welfare",
                 "link": "/social-welfare"
             }

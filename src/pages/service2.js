@@ -383,7 +383,7 @@ const Service2Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                 </div>
@@ -412,7 +412,7 @@ const Service2Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                 </div>
@@ -441,7 +441,7 @@ const Service2Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                 </div>
@@ -470,7 +470,7 @@ const Service2Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                 </div>
@@ -499,7 +499,7 @@ const Service2Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                 </div>
@@ -528,7 +528,7 @@ const Service2Page = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+919952648777">+91 99526 48777</a>
+                      <a href="tel:+917305617729">+91 73056 17729</a>
                     </div>
                   </div>
                 </div>

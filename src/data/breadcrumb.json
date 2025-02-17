@@ -238,6 +238,13 @@
     }
     ,
     {
+        "id":"36",
+        "path":"/youth-ministry",
+        "title":"Youth Ministry",
+        "bg_img":"/assets/img/inner-pages/youth.jpg"
+    }
+    ,
+    {
         "id":"35",
         "path":"/online-gatherings",
         "title":"Online Gatherings",
