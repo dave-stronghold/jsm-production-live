@@ -75,7 +75,7 @@ const ContactPage = () => {
                     </div>
                     <div className="info">
                       <a>
-                        Senaigalin Karthar Ministries, Office-02, Chennai, Tamil Nadu, India
+                        Senaigalin Karthar Ministries, 183, Baba Nagar, 2nd Cross  Street, Villivakkam Chennai, TN, India - 600 049
                       </a>
                     </div>
                   </li>
@@ -153,7 +153,7 @@ const ContactPage = () => {
             <div className="col-lg-7">
               <div className="company-map">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248755.7947609403!2d80.04419799407202!3d13.047807812799862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ea4f7d3361%3A0x6e61a70b6863d433!2sChennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1714399587427!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3885.7162601919695!2d80.20218217507897!3d13.117152887211763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDA3JzAxLjgiTiA4MMKwMTInMTcuMSJF!5e0!3m2!1sen!2sin!4v1739862095451!5m2!1sen!2sin"
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
