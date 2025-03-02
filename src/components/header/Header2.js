@@ -111,7 +111,7 @@ const Header2 = () => {
             </a>
           </li>
           <li>
-            <a href="tel:+917305617729">
+            <a href="https://wa.me/7305617729">
               {/* <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width={14}
@@ -257,7 +257,7 @@ const Header2 = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="tel:+917305617729">
+                  <a href="https://wa.me/7305617729">
                     <img src="/wa.svg"
 
                       style={{

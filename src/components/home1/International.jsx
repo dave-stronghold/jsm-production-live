@@ -35,7 +35,7 @@ const FindJob = () => {
                   }}>
                     For More info
                     <a
-                      href="https://wa.me/917305617729"
+                      href="https://wa.me/7305617729"
                       target="_blank"
                       rel="noopener noreferrer"
                     >

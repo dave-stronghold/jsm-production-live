@@ -205,7 +205,7 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="tel:+917305617729">
+                  <a href="https://wa.me/7305617729">
                   <img src="/wa_black.svg" 
                          
                          style={{

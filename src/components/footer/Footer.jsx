@@ -55,7 +55,7 @@ const Footer = () => {
                         <div className="content" style={{minWidth:'max-content'}}>
                           <span>For Whatsapp  </span>
                           <h6>
-                            <a href="tel:+917305617729">+91 73056 17729</a>
+                            <a href="https://wa.me/7305617729">+91 73056 17729</a>
                           </h6>
                         </div>
                       </div>
@@ -131,7 +131,17 @@ const Footer = () => {
                         </li> */}
                         <li>
                           <Link legacyBehavior href="https://www.youtube.com/@SENAIGALINKARTHAR">
-                            <a>Senaigalin Karthar International</a>
+                            <a>YouTube</a>
+                          </Link>
+                        </li>
+                        <li>
+                          <Link legacyBehavior href="https://www.instagram.com/lastdaysglory">
+                            <a>Instagram</a>
+                          </Link>
+                        </li>
+                        <li>
+                          <Link legacyBehavior href="https://wa.me/7305617729">
+                            <a>Whatsapp</a>
                           </Link>
                         </li>
                       </ul>
@@ -260,7 +270,7 @@ const Footer = () => {
                 </p>
               </div>
               <ul className="social-area">
-                <li>
+                {/* <li>
                   <a href="https://www.facebook.com/">
                     <i className="bx bxl-facebook" />
                   </a>
@@ -274,10 +284,20 @@ const Footer = () => {
                   <a href="https://www.linkedin.com/">
                     <i className="bx bxl-linkedin" />
                   </a>
+                </li> */}
+                <li>
+                  <a href="https://www.instagram.com/lastdaysglory">
+                    <i className="bx bxl-instagram-alt" />
+                  </a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/">
-                    <i className="bx bxl-instagram-alt" />
+                  <a href="https://www.youtube.com/@senaigalinkarthar">
+                    <i className="bx bxl-youtube" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://wa.me/7305617729">
+                    <i className="bx bxl-whatsapp" />
                   </a>
                 </li>
               </ul>
