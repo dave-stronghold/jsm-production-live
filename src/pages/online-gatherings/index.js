@@ -1,4 +1,6 @@
+import { meetCodeAtom, meetLinkAtom } from "@/src/atoms";
 import MainLayout from "@/src/components/layout/MainLayout";
+import { useAtomValue } from "jotai";
 import Link from "next/link";
 import React from "react";
 import CountUp from "react-countup";
@@ -24,6 +26,8 @@ var days = daysPassedSince("2023-06-21");
 // console.log("Number of days passed since June 21, 2023:", days);
 
 const CarrerPage = () => {
+  const meetCode=useAtomValue(meetCodeAtom)
+  const meetLink=`https://meet.google.com/${meetCode}`
   return (
     <MainLayout>
       <div className="career-page pt-130 mb-130">
@@ -150,7 +154,7 @@ const CarrerPage = () => {
                     <ul>
                       <li>Meet Code</li>
                     </ul>
-                    <span>yaw-vqfn-gpb</span>
+                    <span>{meetCode}</span>
                   </div>
                 </a>
                 <ul className="counter-wrap">
@@ -524,7 +528,7 @@ const CarrerPage = () => {
                     </ul>
                   </div>
                 </div>
-                <Link legacyBehavior href="https://meet.google.com">
+                <Link legacyBehavior href={meetLink}>
                   <a className="primary-btn1 btn-hover">
                     Join Meet
                     <svg
@@ -561,7 +565,7 @@ const CarrerPage = () => {
                     </ul>
                   </div>
                 </div>
-                <Link legacyBehavior href="https://meet.google.com">
+                <Link legacyBehavior href={meetLink}>
                   <a className="primary-btn1 btn-hover">
                     Join Meet
                     <svg
@@ -598,7 +602,7 @@ const CarrerPage = () => {
                     </ul>
                   </div>
                 </div>
-                <Link legacyBehavior href="https://meet.google.com">
+                <Link legacyBehavior href={meetLink}>
                   <a className="primary-btn1 btn-hover">
                     Join Meet
                     <svg
@@ -635,7 +639,7 @@ const CarrerPage = () => {
                     </ul>
                   </div>
                 </div>
-                <Link legacyBehavior href="https://meet.google.com">
+                <Link legacyBehavior href={meetLink}>
                   <a className="primary-btn1 btn-hover">
                     Join Meet
                     <svg
@@ -672,7 +676,7 @@ const CarrerPage = () => {
                     </ul>
                   </div>
                 </div>
-                <Link legacyBehavior href="https://meet.google.com">
+                <Link legacyBehavior href={meetLink}>
                   <a className="primary-btn1 btn-hover">
                     Join Meet
                     <svg

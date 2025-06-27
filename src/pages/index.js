@@ -30,7 +30,8 @@ export default function Home() {
           </li>
           
           <li>
-            <Link legacyBehavior href="/event#events">
+            {/* <Link legacyBehavior href="/event#events"> */}
+            <Link legacyBehavior href="#">
               <a>Upcoming Events</a>
             </Link>
           </li>

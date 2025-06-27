@@ -3,6 +3,7 @@ import Link from "next/link";
 import React from "react";
 
 const Footer = () => {
+   const currentYear = new Date().getFullYear();
   return (
     <footer>
       <div className="container-fluid one">
@@ -265,7 +266,7 @@ const Footer = () => {
             <div className="footer-btm">
               <div className="copyright-area">
                 <p>
-                  Copyright 2024 | Design By{" "}
+                  Copyright {currentYear} | Design By{" "}
                   <a href="/">JS Ministries</a>
                 </p>
               </div>
